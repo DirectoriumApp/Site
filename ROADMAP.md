@@ -4,15 +4,16 @@ _A plain-language overview of where the Introibo website & admin are headed. Eac
 its tracking milestone and the issues that make it up (issue links are added once the backlog is
 imported)._
 
-_Last updated: 2026-06-30_
+_Last updated: 2026-07-01_
 
 ## 🚧 In progress — [v0.1.0](https://github.com/Introibo-App/Site/milestone/1)
 **Run the platform.** The admin dashboard (keys, quotas, usage, rebuild & purge, auth), a public
 status page with uptime alerts, and backups (MySQL + data).
 
 ## 🗓️ Next — [v0.2.0](https://github.com/Introibo-App/Site/milestone/2)
-**The public website.** The introibo.org MVP: public calendar + day pages + a Sources & licenses
-page + SEO + cookieless analytics.
+**The public website.** The introibo.org MVP: public calendar + day pages + **edition-aware URLs** and
+selector + the **authority surfaces** (Sources page from the ledger, citation tooltips, a "Why this day?"
+panel, and a public errata/changelog) + SEO + cookieless analytics. All UI is mockups-gated.
 
 ## 🔭 Future
 - **[v0.5.0](https://github.com/Introibo-App/Site/milestone/3) — Configurable UI platform.** Reader switchers, accessibility, white-label palettes
@@ -20,6 +21,8 @@ page + SEO + cookieless analytics.
 - **[v0.6.0](https://github.com/Introibo-App/Site/milestone/4) — Outputs & integrations.** iCal + printable monthly Ordo (PDF) + print CSS.
 - **[v1.0.0](https://github.com/Introibo-App/Site/milestone/5) — Platform launch.** Cut together with Core, Api, and Ordo.
 - **[v1.1.0](https://github.com/Introibo-App/Site/milestone/6)+ — On-site Mass & Office reader.**
+- **[v2.0.0](https://github.com/Introibo-App/Site/milestone/7) — Comparison tool UI.** The visual, interactive side-by-side calendar/rite/office
+  comparison — year-slider, focus mode, provenance annotations, exports. Mockups-gated. The marquee.
 
 ## ✅ Released
 _None yet._
