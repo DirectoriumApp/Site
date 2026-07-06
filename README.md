@@ -1,11 +1,11 @@
-# Introibo — Website & Admin
+# Directorium — Website & Admin
 
-> The flagship website and admin for the Introibo platform — *Introíbo ad altáre Dei.*
+> The flagship website and admin for the Directorium platform — *Introíbo ad altáre Dei.*
 
-**Site** is introibo.org: the public reader (calendar + day pages, Sources & licenses, SEO,
+**Site** is directorium.app: the public reader (calendar + day pages, Sources & licenses, SEO,
 cookieless analytics) and the authenticated **admin SPA** for the platform — API-key issue/revoke/
 rotate per tenant, per-key quotas and rate limits, usage stats, data-version status, "rebuild &
-purge," and health/status. It is a client of the Introibo API.
+purge," and health/status. It is a client of the Directorium API.
 
 The admin SPA and public site ship as **static assets** (Cloudflare-cached) on authenticated PHP
 endpoints; auth is PHP sessions + hashed passwords (optional 2FA). Privacy-first throughout:
@@ -27,5 +27,5 @@ cut automatically by release-please.
 
 ## Licence
 
-© 2026 Introibo. Licensed under **AGPL-3.0-or-later** (see [LICENSE](LICENSE)). The compiled
+© 2026 Directorium. Licensed under **AGPL-3.0-or-later** (see [LICENSE](LICENSE)). The compiled
 calendar dataset is released under **CC0**.
