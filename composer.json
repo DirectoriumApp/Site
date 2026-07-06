@@ -1,6 +1,6 @@
 {
-    "name": "introibo/site",
-    "description": "introibo.org: the public website and admin for the Introibo platform.",
+    "name": "directorium/site",
+    "description": "directorium.app: the public website and admin for the Directorium platform.",
     "type": "project",
     "license": "AGPL-3.0-or-later",
     "require": {
